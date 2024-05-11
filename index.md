@@ -20,4 +20,13 @@
 a=[int(i) for i in input().split()]
 print(a)
 ```
-"Added code example to demonstrate Git initialization"
+"Added code example to demonstrate Git initialization."
+
+# STEP-4
+
+- [x] Added headers to index.md for better organization.
+- [x] Added image to index.md for visual enhancement.
+- [x] Added code example to demonstrate Git initialization.
+- [ ] Added task list for project milestones.
+
+"Added task list for project milestones."
